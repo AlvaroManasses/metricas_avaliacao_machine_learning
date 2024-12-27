@@ -1,5 +1,3 @@
-# Salvar o conteúdo do README.md gerado como arquivo para download
-readme_content = """
 # Análise de Métricas de Modelos de Machine Learning
 
 Este projeto visa analisar as métricas de desempenho de um modelo de machine learning, fornecendo ferramentas para calcular e visualizar os principais indicadores de qualidade de um modelo preditivo, como matriz de confusão, acurácia, sensibilidade (recall), precisão, F1-score e a curva ROC.
